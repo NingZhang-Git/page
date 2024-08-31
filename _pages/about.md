@@ -62,7 +62,7 @@ IEEE International Symposium on Biomedical Imaging, 2020.\
 
 ## **Teaching**
 - Michaelmas term 2023, Probability and Statistics for Network Analysis
-- Fall 2020 - Spring 2022, STAT321 Stochastic Signals and Systems
+- Fall 2021 - Spring 2022, STAT321 Stochastic Signals and Systems
 - Spring 2020, ELEC291 Electrical Engineering Design Studio I
 <br/>
 <br/>
