@@ -32,6 +32,7 @@ My research interest lies in the intersection of statistics and computation. Cur
 
 - **On the Stability of Graph Convolutional Neural Networks: A Probabilistic Perspective**\
 Ning Zhang, Henry Kenlay, Li Zhang, Mihai Cucuringu, and Xiaowen Dong.\
+Conference on Neural Information Processing Systems (NeurIPS), 2025.\
 [arXiv](https://arxiv.org/pdf/2506.01213) [Code](https://github.com/NingZhang-Git/Stability_Prob)
 
 - **Spectral Clustering for Directed Graphs via Likelihood Estimation on Stochastic Block Models**\
