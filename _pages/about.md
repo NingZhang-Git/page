@@ -37,6 +37,7 @@ Conference on Neural Information Processing Systems (NeurIPS), 2025.\
 
 - **Spectral Clustering for Directed Graphs via Likelihood Estimation on Stochastic Block Models**\
 Ning Zhang, Xiaowen Dong, and Mihai Cucuringu.\
+Annual Conference on Artificial Intelligence and Statistics (AISTATS), 2026.
 [arXiv](https://arxiv.org/abs/2403.19516) [Code](https://github.com/ningz97/MLE-DSBM)
 
 - **On the Feasible Region of Efficient Algorithms for
